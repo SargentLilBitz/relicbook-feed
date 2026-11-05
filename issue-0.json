@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "issue": "0",
+  "updatedAt": "2026-11-05T23:45:00.000Z",
+  "categories": {
+    "caf": {
+      "title": "CAF",
+      "plate": "b",
+      "deals": []
+    },
+    "grocery": {
+      "title": "GROCERY",
+      "plate": "a",
+      "deals": []
+    },
+    "meals": {
+      "title": "MEALS",
+      "plate": "a",
+      "deals": []
+    },
+    "dining": {
+      "title": "DINING",
+      "plate": "b",
+      "deals": []
+    },
+    "travel": {
+      "title": "TRAVEL",
+      "plate": "b",
+      "deals": []
+    },
+    "fun": {
+      "title": "FUN",
+      "plate": "b",
+      "deals": []
+    },
+    "cards": {
+      "title": "CARDS",
+      "plate": "a",
+      "deals": []
+    },
+    "online": {
+      "title": "ONLINE",
+      "plate": "a",
+      "deals": []
+    },
+    "vault": {
+      "title": "VAULT",
+      "plate": "a",
+      "deals": []
+    }
+  }
+}
